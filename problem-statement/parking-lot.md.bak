@@ -2,16 +2,28 @@
 
 ##Requirements:
 
-1.vehicle will come at entry 
-2.Ther would be multiple entry and exist
+1.Vehicle will come at entry 
+
+2.There would be multiple entry and exit
+
 3.ParkingLot will have have multiple floors.
-4.vehicle can be car /bike /truck 
-5.there would be sperate spot for each parking vechicle 
-6.system will find the parking spot for the vechcle 
-7.at time of exit ,user can pay the payment 
-8.parking spot will become empty after the exit 
-9.we can notify user after the exit 
-10.we can have multiple parking strategy for the spot identification and payment strategy for cas/ card payment 
+
+4.Vehicle can be car \/bike \/truck 
+
+5.There would be sperate spot for each parking vechicle 
+
+6.System will find the parking spot for the vechcle 
+
+7.At time of exit ,user can pay the payment 
+
+8.Parking spot will become empty after the exit 
+
+##Additional Info:
+1. we can notify user after the exit and use observer pattern for sending notifications
+
+2. We should have single parking lot class and can use singleton pattern 
+
+3. we can have multiple parking strategy for the spot identification and payment strategy for cas/ card payment 
 
 ##UML Class Diagram 
 
