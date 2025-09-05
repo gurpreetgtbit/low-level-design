@@ -1,6 +1,6 @@
-#Designing a Parking Lot System
+**Designing a Parking Lot System**
 
-##Requirements:
+**Requirements:**
 
 1.Vehicle will come at entry 
 
@@ -18,17 +18,18 @@
 
 8.Parking spot will become empty after the exit 
 
-##Additional Info:
+**Additional Info:**
 1. we can notify user after the exit and use observer pattern for sending notifications
 
 2. We should have single parking lot class and can use singleton pattern 
 
 3. we can have multiple parking strategy for the spot identification and payment strategy for cas/ card payment 
 
-##UML Class Diagram 
+**UML Class Diagram **
 
 ![](../class-diagrams/parking-lot-class-diagram.jpeg)
 
-##Implementation
+**Implementation**
 
 ####[Java Implementation](../solutions/java/src/parking-lot-system/)
+
