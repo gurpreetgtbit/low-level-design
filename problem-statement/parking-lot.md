@@ -30,4 +30,5 @@
 ![](../class-diagrams/parking-lot-class-diagram.jpeg)
 
 ##Implementation
-![Java Implementation](../solutions/java/src/parking-lot-system/)
+
+####[Java Implementation](../solutions/java/src/parking-lot-system/)
